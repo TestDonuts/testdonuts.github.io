@@ -1,7 +1,7 @@
 ---
 published: true
 title: TestDonuts - 软件测试甜甜圈已上线
-category: Algorithm
+category: Notice
 tags: 
   - website
 layout: post
